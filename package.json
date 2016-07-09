@@ -1,0 +1,31 @@
+{
+  "name": "devtools-gtm",
+  "version": "1.0.0",
+  "description": "WordPress developer tools",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkfiresky/devtools-gtm.git"
+  },
+  "author": "Cherry Team",
+  "license": "GPL-3.0+",
+  "bugs": {
+    "url": "https://github.com/dkfiresky/devtools-gtm/issues"
+  },
+  "homepage": "https://github.com/dkfiresky/devtools-gtm#readme",
+  "dependencies": {
+    "commander": "2.9.0",
+    "gulp": "3.9.1",
+    "gulp-changed": "1.3.0",
+    "gulp-debug": "2.1.2",
+    "gulp-phpcs": "1.1.1",
+    "gulp-rename": "1.2.2",
+    "gulp-sass": "2.3.2",
+    "gulp-uglify": "1.5.4",
+    "gulp-util": "3.0.7",
+    "has": "1.0.1",
+    "jscs": "3.0.6",
+    "jshint": "2.9.2",
+    "through2": "2.0.1"
+  }
+}
